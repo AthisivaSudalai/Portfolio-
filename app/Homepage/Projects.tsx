@@ -167,7 +167,7 @@ export default function Projects() {
                                                     fontFamily: 'Inter, sans-serif', fontSize: '0.68rem',
                                                     fontWeight: 700, color: project.textColor,
                                                     letterSpacing: '0.06em', textTransform: 'uppercase',
-                                                    marginBottom: '5px', display: 'block',
+                                                    marginBottom: '5px',
                                                 }}>
                                                     {project.type}
                                                 </span>
